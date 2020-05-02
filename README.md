@@ -20,4 +20,14 @@ Note: Many habits will be practiced every day, however goals of some habits may 
 * Day of the month - date field
 * Completed - tickbox
 
-* User management system - user/password ?
+* User management system - user/password ?  Authentication providers
+
+
+====
+
+Asynchronous - I explained something else
+Rust - Imperative
+WebAssembly
+
+I got a couple of thoughts collapsed into one when it came to planning and refactoring.
+I got so much wrong - but what I got right was starting.
